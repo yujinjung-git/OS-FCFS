@@ -1,4 +1,1 @@
-# InterYujin
-|name|grade|
-|----------------|-----------------|
-|Yujin Jung|20학번|
+# OS FCFS Scheduling
