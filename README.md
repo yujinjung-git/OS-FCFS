@@ -1,4 +1,4 @@
 # InterYujin
 |name|grade|
 |----------------|-----------------|
-|Yujin Jung|1학년|
+|Yujin Jung|20학번|
